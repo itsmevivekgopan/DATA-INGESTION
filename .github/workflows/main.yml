@@ -34,7 +34,7 @@ jobs:
         # Change './mvnw' to 'mvn' if you don't have the wrapper
         # Change to './gradlew build' if using Gradle
         run: ./mvnw package
-        
+      #  
       - name: Authenticate to Google Cloud
         # This action uses your WIF and SA secrets to get a token
         id: 'auth'
