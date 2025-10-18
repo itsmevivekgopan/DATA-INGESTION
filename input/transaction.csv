@@ -1,0 +1,16 @@
+transaction_id,customer_id,transaction_date,amount,currency,status,merchant_name
+T001,C001,2024-01-10 10:30:00,150.50,USD,completed,Amazon
+T002,C002,2024-01-11 14:20:00,89.99,GBP,completed,Tesco
+T003,C003,2024-01-12 09:15:00,250.00,CAD,completed,Best Buy
+T004,C001,2024-01-13 16:45:00,45.75,USD,completed,Starbucks
+T005,C004,2024-01-14 11:30:00,320.00,AUD,failed,JB Hi-Fi
+T006,C005,2024-01-15 13:00:00,,EUR,completed,MediaMarkt
+T007,C999,2024-01-16 15:30:00,125.50,USD,completed,Walmart
+T008,C006,2024-01-17 10:00:00,99.99,EUR,pending,Carrefour
+T009,C007,2024-01-18 12:30:00,450.00,JPY,completed,Rakuten
+T010,C008,2024-01-19 14:15:00,175.25,EUR,completed,El Corte Inglés
+T011,C002,2024-01-20 09:45:00,65.00,GBP,completed,Sainsbury's
+T012,C009,2024-01-21 11:00:00,890.00,SGD,completed,Courts
+T013,C010,2024-01-22 16:30:00,1250.50,INR,completed,Flipkart
+T014,C003,2024-01-23 08:20:00,invalid_amount,CAD,completed,Canadian Tire
+T015,C001,2024-01-24 17:00:00,78.99,USD,completed,Target
